@@ -40,6 +40,10 @@ Se estiver utilizando o Android Studio ou o VSCode que reconheça o dispositivo,
 ## 🎬 Demonstração
 
 
+https://github.com/user-attachments/assets/14592639-a6d0-46e9-a373-4790785360e3
+
+
+
 ## 🧑‍💻 Integrantes
 * [Arthur Osaka Hoshino](http://github.com/ArthurHoshino)
 * [Bruno Koji Nakao](http://github.com/brunokojota)
